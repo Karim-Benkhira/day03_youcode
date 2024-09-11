@@ -25,4 +25,6 @@ int main()
         int resultat = sommeNEntiers(n);
         printf("La somme des %d premiers entiers naturels est: %d\n", n, resultat);
     }
+
+    return 0;
 }
